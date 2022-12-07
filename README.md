@@ -3,7 +3,7 @@
 This is a Python project that detects traffic lights and signs using computer vision techniques.
 
 ## Before you run
-The image files are too big to upload here. Please download the image.zip file from the following Google drive link: <br >
+The image files are too big to upload here. (And I'm not in the GT dropbox group for some reason). Please download the image.zip file from the following Google drive link: <br >
 https://drive.google.com/file/d/1HYbyo8xg0Ft0BkRDRxy33d9jau3zebUL/view?usp=sharing <br >
 Once downloading is completed, please unzip it and place the folder `image` in the home directory.
 
